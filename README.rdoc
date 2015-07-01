@@ -1,0 +1,18 @@
+== README
+
+An omegaverse porn game, because Keenan is a horrible tempter.
+
+= TODO
+
+--Users
+--Character creation (stats)
+--Bandit opening scene
+--Carriage house
+--Closing scenes (high, low, medium, perfect, zero)
+--Wandering bandits
+--Brothel
+--Heat
+--Store (better items, chastity belt?)
+--Fight training (pay in sex or gold)
+--Bakery (hires you for a job, have to have sex to keep it)
+--Inn???
